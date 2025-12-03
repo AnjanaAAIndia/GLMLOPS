@@ -21,11 +21,11 @@ variables:
 
   # For pipeline reference
   resource_group: default_resourse_group
-  aml_workspace: glmlops
-  application_insights: glmlops8738992307
-  key_vault: glmlops5100210022
+  aml_workspace: glmlops2
+  application_insights: glmlops21057134854
+  key_vault: glmlops29175052042
   container_registry: ...
-  storage_account: glmlops1195486459
+  storage_account: glmlops23503999545
   
   # # For terraform reference
   # terraform_version: 0.14.7
